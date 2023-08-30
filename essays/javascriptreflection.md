@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/javascript-libraries.jpg">
 
-*Unraveling the World of JavaScript.*
+<b>*Unraveling the World of JavaScript.* </b> 
 
 As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly a unique landscape. This versatile language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
 
