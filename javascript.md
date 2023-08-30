@@ -16,7 +16,7 @@ labels:
 
 As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly a unique landscape. This versatile language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
 
-## In the context of programming
+## More Info
 
 At first glance, JavaScript appears to be less strict than Java or C++. Dynamic typing, it’s event driven design, and prototype-based object orientation stand in direct contrast to Java and C++ statically typed, class-based OOP systems. The shift may appear puzzling to a Java or C++ expert. Nonetheless, once you get used to these frameworks, JavaScript reveals its enormous potential in web development and beyond. Also with the launch of ES6 , the language was further enhanced, providing features such as arrow functions, promises, and classes, making the code more legible and maintainable.
 
