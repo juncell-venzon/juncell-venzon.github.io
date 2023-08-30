@@ -1,54 +1,42 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Menace Of The Coding World"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Software Engineer
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Unraveling the World of JavaScript.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly a unique landscape. This versatile language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
 
 ## In the context of programming
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+At first glance, JavaScript appears to be less strict than Java or C++. Dynamic typing, it’s event driven design, and prototype-based object orientation stand in direct contrast to Java and C++ statically typed, class-based OOP systems. The shift may appear puzzling to a Java or C++ expert. Nonetheless, once you get used to these frameworks, JavaScript reveals its enormous potential in web development and beyond. Also with the launch of ES6 , the language was further enhanced, providing features such as arrow functions, promises, and classes, making the code more legible and maintainable.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## The Double-Edged Sword of Flexibility
 
-## In the context of engineering
+However, from the standpoint of software engineering, JavaScript's flexibility can be both its greatest strength and its weakest. On the one hand, its dynamism and flexibility enable quick progress and innovation. The same properties, on the other hand, can lead to problematic code if not handled with care. The freedom to freely edit and extend objects may result in unanticipated side effects, and a lack of strict type may result in runtime issues. Many of these issues, though, may be avoided using tools like TypeScript and consistent practices.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## Athletic Software Engineering: A Modern Approach
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Turning to the educational side of software engineering, the concept of athletic software engineering presents a hands-on, repeated training technique evocative of the constant workouts sportsmen go through to perfect their talents. As someone who is used to traditional techniques of programming learning, this approach is a welcome change. Workouts of the Day (WODs) practice provides real-world challenges that not only improve coding talents but also build problem-solving skills.
 
-## In the context of relationships
+## Embracing Challenge: The Thrill and Fear of WODs
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+However, with innovation comes anxiety. The first step into WODs can be intimidating. The timed aspect of these exercises instills a sense of urgency, which may be both invigorating and unpleasant. It's a mix of pleasure and struggle; although some people enjoy the rush of tackling problems against the clock, others may find it scary. While athletic software engineering may not be everyone's cup of tea, I believe it holds considerable promise in generating skilled coders who are acclimated to the hectic world of software development.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
 
-Relationships have always been difficult, and by nature will continue to be so.
+## JavaScript and the Continuous Evolution of Tech Learning
 
-## Okay!
+To wrap things up, imagine JavaScript to be the exciting menace of the coding world, always in contrast to its disciplined siblings, Java and C++. Its strengths and weaknesses originate directly from its free spirit. Then there's the athletic example of software engineering, which is a brilliant example of how technology education is continuously reinventing itself. It challenges us in the same way that the dynamic languages it teachs us while also informing us that regardless of how the tech world moves, our thirst for knowledge and passion for invention never DIES.
 
-So back to the original premise; why is being one of the club officers so difficult?
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
