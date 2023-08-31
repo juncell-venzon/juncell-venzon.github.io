@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/pokemontitle.png
 title: "Pokemon menu GUI"
 date: 2020/12/14
 published: true
