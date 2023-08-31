@@ -12,9 +12,9 @@ summary: "I created a pokemon GUI for my final assignment in ICS111."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/pokemon-project.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/pokemon-project-list.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/pokemon-project-addedlist.jpg" class="img-thumbnail" >
 </div>
 
 
