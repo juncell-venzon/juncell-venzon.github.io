@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javascript-libraries.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/314imageessay.jpg">
 
 ## Software's Vast Terrain
 Software engineering to me feels like a vast, sprawling jungle of knowledge, waiting to be explored. Every corner hides exciting challenges, from frontend design to backend development and even the intricate dance of algorithms. The thrill? This jungle never ends! It keeps growing, offering newer, cooler things to learn and tackle. And just like a kid in a candy store, I'm here, eyes wide, ready to dive into everything it offers.
