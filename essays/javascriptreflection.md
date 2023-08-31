@@ -14,16 +14,16 @@ labels:
 
 *"The infinite library of the Universe is in your mind." a qoute by Swami Vivekananda.* 
 
-As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly a unique landscape. This versatile language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
+As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly a unique in it's own way. This language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
 
 ## Unraveling the World of JavaScript
 
-At first glance, JavaScript appears to be less strict than Java or C++. Dynamic typing, it’s event driven design, and prototype based object orientation stand in direct contrast to Java and C++ statically typed, class based OOP systems. The shift may appear puzzling to a Java or C++ expert. Nonetheless, once you get used to these frameworks, JavaScript reveals its enormous potential in web development and beyond. Also with the launch of ES6 , the language was further enhanced, providing features such as arrow functions, promises, and classes, making the code more legible and maintainable.
+At first glance, JavaScript appears to be less strict than Java or C++. Dynamic typing, it’s event driven design, and prototype based object orientation stand in direct contrast to Java and C++ class based OOP systems. The shift may appear puzzling to a Java or C++ expert. Nonetheless, once you get used to these frameworks, JavaScript reveals its enormous potential in web development. Also with the launch of ES6 , the language was further enhanced, providing features such as arrow functions, promises, and classes, making the code more legible and maintainable.
 
 
 ## The Double Edged Sword of Flexibility
 
-However, from the standpoint of software engineering, JavaScript's flexibility can be both its greatest strength and its weakest. On the one hand, its dynamism and flexibility enable quick progress and innovation. The same properties, on the other hand, can lead to problematic code if not handled with care. The freedom to freely edit and extend objects may result in unanticipated side effects, and a lack of strict type may result in runtime issues. Many of these issues, though, may be avoided using tools like TypeScript and consistent practices.
+However, from the standpoint of software engineering, JavaScript's flexibility can be both its greatest strength and its weakest. On one hand, its dynamism and flexibility enable quick progress and innovation. The same properties, on the other hand, can lead to problematic code if not handled with care. The freedom to freely edit and extend objects may result in unanticipated side effects, and a lack of strict type may result in runtime issues. Many of these issues, though, may be avoided using tools like TypeScript and consistent practices.
 
 
 ## A Modern Approach
@@ -37,7 +37,6 @@ However, with innovation comes anxiety. The first step into WODs can be intimida
 
 ## JavaScript and the Continuous Evolution of Tech Learning
 
-To wrap things up, imagine JavaScript to be the exciting menace of the coding world, always in contrast to its disciplined siblings, Java and C++. Its strengths and weaknesses originate directly from its free spirit. Then there's the athletic example of software engineering, which is a brilliant example of how technology education is continuously reinventing itself. It challenges us in the same way that the dynamic languages it teachs us while also informing us that regardless of how the tech world moves, our thirst for knowledge and passion for invention never DIES.
-
+To wrap things up, imagine JavaScript to be the exciting menace of the coding world, always in contrast to its disciplined siblings, Java and C++. Its strengths and weaknesses originate directly from its free spirit. Then there's the morden approach of software engineering, which is a brilliant example of how technology education is continuously reinventing itself. Regardless of how the tech world moves, our thirst for knowledge and passion for invention never will never stop.
 
 
