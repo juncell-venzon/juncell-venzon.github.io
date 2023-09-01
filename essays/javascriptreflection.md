@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""JavaScript Unraveled""
+title: "JavaScript Unraveled"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
