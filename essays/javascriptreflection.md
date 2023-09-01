@@ -37,6 +37,6 @@ However, with innovation comes anxiety. The first step into WODs can be intimida
 
 ## JavaScript and the Continuous Evolution of Tech Learning
 
-To wrap things up, imagine JavaScript to be the exciting menace of the coding world, always in contrast to its disciplined siblings, Java and C++. Its strengths and weaknesses originate directly from its free spirit. Then there's the morden approach of software engineering, which is a brilliant example of how technology education is continuously reinventing itself. Regardless of how the tech world moves, our thirst for knowledge and passion for invention never will never stop.
+To wrap things up, imagine JavaScript to be the exciting menace of the coding world, always in contrast to its disciplined siblings, Java and C++. Its strengths and weaknesses originate directly from its free spirit. Then there's the modern approach of software engineering, which is a brilliant example of how technology education is continuously reinventing itself. Regardless of how the tech world moves, our thirst for knowledge and passion for invention never will never stop.
 
 
