@@ -6,7 +6,9 @@ title: "YMCA"
 date: 2019-04-27
 published: true
 labels:
-  - 
+  - Fitness
+  - Health
+    
 summary: "I along with others were part of the YMCA 150th anniversary event."
 ---
 
@@ -27,5 +29,3 @@ This experience was an invaluable lesson in teamwork, leadership, and event mana
 * For more information on YMCA and its event, you can [click here](https://www.youtube.com/watch?v=GZHxqLYSsJ0).
 
 
-
-x
