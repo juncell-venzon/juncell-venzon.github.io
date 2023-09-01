@@ -24,7 +24,7 @@ On the event day, I was entrusted with several critical tasks. I helped set up g
 This experience was an invaluable lesson in teamwork, leadership, and event management. I learned the importance of being adaptable and responsive, especially when managing a large-scale event with many moving parts. The rotations ensured that each team leader developed a holistic understanding of the event operations, from visitor management to entertainment. The success of this event reinforced the importance of effective communication and collaboration among team members. It was an honor to contribute to such a historic milestone for the YMCA and to serve our community in this special way.
 
 - For more information on YMCA and its 150th anniversary, you can [click here](https://ymca150.ymcahonolulu.org/stories/18-nuuanu-YMCA).
-* For more information on YMCA and its even, you can [click here](https://www.youtube.com/watch?v=GZHxqLYSsJ0).
+* For more information on YMCA and its event, you can [click here](https://www.youtube.com/watch?v=GZHxqLYSsJ0).
 
 
 
