@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "venzon-juncell", "url": "https://github.com/juncell-venzon" },
-      { "network": "linkedin", "username": "juncellvenzon", "url": "https://www.linkedin.com/in/juncellvenzon/" },
-      { "network": "twitter", "username": "JuncellV", "url": "http://twitter.com/JuncellV" },
-      { "network": "instagram", "username": "denzell67", "url": "http://instagram.com/denzell67" }
+      { "network": "linkedin", "username": "juncellvenzon", "url": "https://www.linkedin.com/in/juncellvenzon/" }
     ]
   },
   "interests": [
@@ -45,71 +43,49 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Zara",
+      "position": "Floor Associate",
+      "website": "https://www.zara.com/us/",
+      "startDate": "2019-08-1",
+      "endDate": "2020-07-31",
+      "summary": "Section Leader",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Product Knowledge",
+        "Customer Service",
+        "Inventory Management"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Department Of Education Hawaii",
+      "position": "Paraprofessional",
+      "website": "https://www.ed.gov",
+      "startDate": "2019-01-8",
+      "endDate": "2016-05-31",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supporting Classroom Activities",
+        "Special Education Assistance",
+        "Classroom Management",
+        "Administrative Tasks"
       ]
-    }
-  ],
-  "volunteer": [
+    }, 
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "company": "Jamba Juice Hawaii",
+      "position": "Team Leader",
+      "website": "https://jambahawaii.com/",
+      "startDate": "2017-11-8",
+      "endDate": "2018-12-28",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Customer Service Excellences",
+        "Training",
+        "Health and Safety",
+        "Sales and Marketing"
+        
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+
   "references": [
     {
       "name": "Available upon request"
