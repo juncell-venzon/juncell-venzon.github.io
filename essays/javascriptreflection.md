@@ -32,7 +32,7 @@ Turning to the educational side of software engineering, the concept of athletic
 
 ## The Thrill and Fear of WODs
 
-However, with innovation comes anxiety. The first step into WODs can be intimidating. The timed aspect of these exercises instills a sense of urgency, which may be both invigorating and unpleasant. It's a mix of pleasure and struggle; although some people enjoy the rush of tackling problems against the clock, others may find it scary. While athletic software engineering may not be everyone's cup of tea, I believe it holds considerable promise in generating skilled coders who are acclimated to the hectic world of software development.
+However, with innovation comes anxiety. The first step into WODs can be intimidating. The timed aspect of these exercises instills a sense of urgency, which may be both invigorating and unpleasant. It's a mix of pleasure and struggle; although some people enjoy the rush of tackling problems against the clock, others may find it scary. While WODs may not be everyone's cup of tea, I believe it holds considerable promise in generating skilled coders who are acclimated to the hectic world of software development.
 
 
 ## JavaScript and the Continuous Evolution of Tech Learning
