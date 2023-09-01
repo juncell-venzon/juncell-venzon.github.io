@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ymca150titlelogo.jpg
 title: "YMCA"
-date: 2022-04-26
+date: 2019-04-27
 published: true
 labels:
   - 
@@ -28,3 +28,4 @@ This experience was an invaluable lesson in teamwork, leadership, and event mana
 
 
 
+x
