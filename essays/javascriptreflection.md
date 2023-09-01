@@ -14,7 +14,7 @@ labels:
 
 *"The infinite library of the Universe is in your mind." a qoute by Swami Vivekananda.* 
 
-As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly a unique in it's own way. This language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
+As someone who has explored programming languages such as Java and C++, JavaScript is undoubtedly unique in it's own way. This language has had a huge impact on the field of web development. My recent study of it has provided me with a better understanding of its potential as well as a greater appreciation for its unique characteristics and traits.
 
 ## Unraveling the World of JavaScript
 
