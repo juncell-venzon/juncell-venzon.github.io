@@ -12,9 +12,19 @@ summary: "A fishing game me and my team developed for ICS211."
 
 <img class="img-fluid" src="../img/ymcaanniversayscreenshot.jpg">
 
-In this project, My group was tasked with developing a two player Fishing Tournament game, where participants take alternate turns on the same computer to catch fish and place them in their respective sacks (implemented using an ArrayList). The game stretches over 12 turns for each player (this is tracked by months January - December), and by the end, the player with the three largest fish emerges as the victor. The fish used in the game, derived from the FishableI_a subclass of the I_a superclass, possess unique characteristics such as legal size, open seasons, and methods of catching. Specific fish families, like Pua_ama mullet, Ohua/Uhu fish, and Oama/Weke fish, have distinct regulations that players must adhere to when fishing. The game comprises three main phases: setting up the Fish Pond with baby fish which grows over time, the primary fishing phase, and concluding with determining the winner based on the size of the caught fish.
+## History:
+The Young Men's Christian Association, or YMCA, is an international organization that promotes healthy living, social responsibility, and youth development. Its rich history dates back to 1844, and its impact has been seen in local communities all around the world. To celebrate its 150th anniversary, our local YMCA decided to host a special event for the youth, reminiscent of a festive fair. I had the privilege of playing a key role in this event as a team leader.
 
-In the Fishing Tournament Java project, I was entrusted with the task of creating a dedicated area for a particular fish family, as well as crafting the foundational driver and associated functions vital for game operation. Beyond my development duties, I also did quality check for our teams codebase. I reviewed and refined our collective work, ensuring it was not only clean and readable but also in strict compliance with the coding style regulations, guaranteeing consistency and excellence throughout our project.
+## My Contribution:
+As a team leader at YMCA, my responsibilities were multifaceted. Not only was I actively involved in volunteer work, but I also managed an after-school class. To commemorate the 150th anniversary, team leaders, including myself, were given the task to develop mini-games for the event. I designed a straightforward, yet engaging game: players had to knock off three bottles arranged in a triangular pattern using a ball.
+
+On the event day, I was entrusted with several critical tasks. I helped set up games, arranged bounce houses, and served as a host for various games. We had devised a rotational system wherein the team leaders and staff switched roles every hour. These roles included serving as a game host, parking guide (ensuring efficient parking space allocation and directing visitors), sign holder (guiding visitors to the right locations), and taking rest breaks to rejuvenate.
+
+## Learnings:
+This experience was an invaluable lesson in teamwork, leadership, and event management. I learned the importance of being adaptable and responsive, especially when managing a large-scale event with many moving parts. The rotations ensured that each team leader developed a holistic understanding of the event operations, from visitor management to entertainment. The success of this event reinforced the importance of effective communication and collaboration among team members. It was an honor to contribute to such a historic milestone for the YMCA and to serve our community in this special way.
+
+- For more information on YMCA and its 150th anniversary, you can [click here](https://ymca150.ymcahonolulu.org/stories/18-nuuanu-YMCA).
+* For more information on YMCA and its even, you can [click here](https://www.youtube.com/watch?v=GZHxqLYSsJ0).
 
 
 
