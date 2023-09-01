@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishingprotfoliopic.jpg
+image: img/ymca150titlelogo.jpg
 title: "YMCA"
 date: 2022-04-26
 published: true
