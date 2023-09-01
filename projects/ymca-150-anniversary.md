@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/fishingprotfoliopic.jpg
-title: "Fishing Game"
+title: "YMCA"
 date: 2022-04-26
 published: true
 labels:
-  - Java
-summary: "A fishing game me and my team developed for ICS211."
+  - 
+summary: "I along with others were part of the YMCA 150th anniversary event."
 ---
 
 <img class="img-fluid" src="../img/ymcaanniversayscreenshot.jpg">
