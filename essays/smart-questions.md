@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What Is A Smart Question"
+title: "The Smart Way"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-04
 published: true
