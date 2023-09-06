@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineer
 ---
-
+<img width="200px" class="rounded float-start pe-4" src="../img/question-mark-pic.jpeg">
 
 ## Importance of Asking A Question
 In software development, the manner in which we frame questions can significantly influence the kind and quality of assistance we receive. Eric Raymond outlined the essence of framing queries the "smart way," a guideline aimed at nurturing productive and efficient communication within the online community. Smart questions are vital in software engineering for various reasons. They facilitate efficient problem solving by pinpointing the core issue as well as enabling others to offer more precise help. Additionally, well constructed questions can serve as a valuable resource for others encountering similar issues in the future, thereby fostering a community that leans on each other for solutions.
