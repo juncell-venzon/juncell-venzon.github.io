@@ -7,7 +7,7 @@ date: 2023-09-20
 published: true
 labels:
   - Software Engineer
-  - Intelli J
+  - IntelliJ
   - ESLint
 ---
 ## Importance of Learning JavaScript and Coding Standards
