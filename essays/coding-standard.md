@@ -29,7 +29,7 @@ During my first week using both IntelliJ and ESLint, I was a bit surprised. Alth
 Using IntelliJ and ESLint together really helped me see the importance of coding standards. IntelliJ made my work easier by handling a lot of tasks smoothly, like finding errors and helping with version control. It's a really useful tool that does a lot. On the other hand, ESLint helped me write better code by consistently pointing out my mistakes whenever I decided to write bad code. This is really important when working with a team, because it makes sure everyone is writing code the same way. Thus making the code easier for everyone to read and work on.
 
 ## Insights Gained
-Overall, coding standards go beyond being a simple set of style rules to follow. They evolve into a framework for high-quality coding, effective teamwork, and continuous learning. With the help of the right tools, these standards can even transform our code from just being functional to becoming a well crafted piece of work. As we keep up with the ever changing landscape of technology, it is important to remember the basic fundamentals that truly make us better at our crafts.
+Overall, coding standards go beyond than just being a simple set of style rules to follow. They evolve into a framework for high-quality coding, effective teamwork, and continuous learning. With the help of the right tools, these standards can even transform our code from just being functional to becoming a well crafted piece of art. As we keep up with the ever changing landscape of technology, it is important to remember the basic fundamentals that truly make us better at our crafts.
 
 
 
