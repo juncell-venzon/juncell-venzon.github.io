@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 ## Importance of Learning JavaScript and Coding Standards
-In many software engineering courses, learning JavaScript is a common element of the curriculum. However, mastering the language is just one part of the equation; maintaining proper coding standards and utilizing an efficient Integrated Development Environment (IDE) are equally crucial. 
+In many software engineering courses, learning JavaScript is a common element of the curriculum. However, mastering the language is just one part of the equation. Maintaining proper coding standards and utilizing an efficient Integrated Development Environment (IDE) are equally crucial. 
 
 ## Why IntelliJ Stands Out Among IDEs
 Among the variety of available IDEs, IntelliJ, developed by JetBrains, stands out as the go to choice for many JavaScript developers. Its popularity stems from its ability to streamline coding tasks, making the development process both easier and more efficient. With an array of features such as version control, plugins, database tools etc, IntelliJ offers a comprehensive suite for modern software development.
