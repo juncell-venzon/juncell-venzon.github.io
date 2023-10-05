@@ -29,7 +29,6 @@ In the world of website digitalization where the web page can make or break an i
     <img width="240px" src="../img/ics314html.jpg" class="img-thumbnail" >
 </div>
                                              
-                                                  (open image in new tab to enlarge)
 <div class="text-center">
   (open image in new tab to enlarge)
 </div>
