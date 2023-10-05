@@ -25,6 +25,17 @@ In the world of website digitalization where the web page can make or break an i
   <img width="240px" src="../img/ics314css.jpg" class="img-thumbnail" >
     <img width="240px" src="../img/ics314html.jpg" class="img-thumbnail" >
 </div>
+<div class="text-center p-4">
+  <div>bootstrap css</div>
+  <div>bootstrap html</div>
+  <div>regular css</div>
+  <div>regular html</div>
+</div>
+
+<div class="text-center p-4">
+open image in new tab to enlarge
+</div>
+
 
 ## Why UI Frameworks?
 For the most part UI frameworks might seem intimidating, But in my opinion, the long-term rewards overweigh the time spent learning it. The personal experience I have shared resonates with many other beginner developers going through the same process. Just as a construction worker wouldn't build a skyscraper brick by brick, a developer benefits from having structured and already defined blueprints at there disposal to format the website.
