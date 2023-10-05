@@ -26,31 +26,9 @@ In the world of website digitalization where the web page can make or break an i
     <img width="240px" src="../img/ics314html.jpg" class="img-thumbnail" >
 </div>
 
-<div class="text-center p-4">
-  <div>bootstrap css</div>
-  <div>bootstrap html</div>
-  <div>regular css</div>
-  <div>regular html</div>
-</div>
-
-{
-  "rows": [
-    {
-      "columns": [
-        "<div class=\"text-center p-4\">\n  <div>bootstrap css</div>\n  <div>bootstrap html</div>\n  <div>regular css</div>\n  <div>regular html</div>\n</div>"
-      ]
-    },
-    {
-      "columns": [
-        "<div class=\"text-center p-4\">\nopen image in new tab to enlarge\n</div>"
-      ]
-    }
-  ]
-}
-
-<div class="text-center p-4">
-open image in new tab to enlarge
-</div>
+bootstrap css                            bootstrap html                            regular css                            regular html
+                                             
+                                             (open image in new tab to enlarge)
 
 
 ## Why UI Frameworks?
