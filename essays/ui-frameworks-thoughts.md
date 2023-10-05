@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "A Necessity For Sofware Engineers"
+title: "Necessity For Sofware Engineers"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-20
+date: 2023-10-04
 published: true
 labels:
   - Software Engineer
