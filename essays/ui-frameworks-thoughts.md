@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Importance Of Coding Standard"
+title: "A Necessity For Sofware Engineers"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
 published: true
 labels:
   - Software Engineer
-  - IntelliJ
-  - ESLint
+  - UI Frameworks
 ---
 
 
