@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Necessity For Sofware Engineers"
+title: "Essential Tools for Software Engineers"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: true
