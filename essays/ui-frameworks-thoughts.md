@@ -25,10 +25,8 @@ In the world of website digitalization where the web page can make or break an i
   <img width="240px" src="../img/ics314css.jpg" class="img-thumbnail" >
     <img width="240px" src="../img/ics314html.jpg" class="img-thumbnail" >
 </div>
-
-bootstrap css                            bootstrap html                            regular css                            regular html
                                              
-                                             (open image in new tab to enlarge)
+                                                  (open image in new tab to enlarge)
 
 
 ## Why UI Frameworks?
