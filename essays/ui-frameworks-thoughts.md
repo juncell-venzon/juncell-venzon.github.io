@@ -12,7 +12,7 @@ labels:
 
 
 
-<div class="text-center">
+<div class="text-center py-2">
   <img width="500px" src="../img/314essaybootstrapexample.jpg" class="img-thumbnail" >
 </div>
 
@@ -29,7 +29,7 @@ In the world of website digitalization where the web page can make or break an i
     <img width="240px" src="../img/ics314html.jpg" class="img-thumbnail" >
 </div>
                                              
-<div class="text-center">
+<div class="text-center pt-2">
   (open image in new tab to enlarge)
 </div>
 
