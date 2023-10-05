@@ -45,7 +45,7 @@ Imagine recreating buttons, navbars or any type of modern function to a new site
 Besides that frameworks like BootStrap are highly customizable. Many developers have the liberty to override default styles, ensuring they get their own unique style that they pictured in their head and on the website.
 
 
-## Are there even Downsides?
+## Are there any Downsides?
 With my personal experience, there are absolutely no downsides in my opinion considering some small issues:
 
 - <b>Learning Curve:</b> As i mentioned earlier, the overall learning gap is quite steep and stressful to learn, especially for first time learners. The initial grasp of the framework’s classes, functions and structure can be scary at first. But like all new things the first few steps are always hard but it is an investment, once mastered, offering returns outlooking the trails spent learning it.
