@@ -10,26 +10,49 @@ labels:
   - IntelliJ
   - ESLint
 ---
-## Importance of Learning JavaScript and Coding Standards
-In many software engineering courses, learning JavaScript is a common element of the curriculum. However, mastering the language is just one part of the equation. Maintaining proper coding standards and utilizing an efficient Integrated Development Environment (IDE) are equally crucial. 
 
-## Why IntelliJ Stands Out Among IDEs
-Among the variety of available IDEs, IntelliJ, developed by JetBrains, stands out as the go to choice for many JavaScript developers. Its popularity stems from its ability to streamline coding tasks, making the development process both easier and more efficient. With an array of features such as version control, plugins, database tools etc, IntelliJ offers a comprehensive suite for modern software development.
 
-## Perspective on Coding Standard
-Coding standards might initially seem somewhat useless. Many view them merely as style guides, focusing on the correct number of spaces between lines or the precise placement of curly braces/semicolons. However, after spending an entire week working with JavaScript and using tools like IntelliJ and ESLint, my perspective has changed. 
 
-## Educational Aspect of ESLint
-Other than being a software tool that promotes and forces strict coding style format, ESLint has a deeper meaning for its use. It serves as a really great framework that promotes good coding. The software educates you on how to write good code, not simply how to write code. When the coding format is broken just by a hair, The software quickly alerts you with red underlines underneath the area that is wrong and quickly conveys the reason behind the mistake. ESLint provides insights into the language itself. In this sense, meeting these requirements becomes a learning process to the user.
+<div class="text-center">
+  <img width="600px" src="../img/314essaybootstrapexample.jpg" class="img-thumbnail" >
+</div>
 
-## A Week with IntelliJ and ESLint
-During my first week using both IntelliJ and ESLint, I was a bit surprised. Although I had experience with similar IDE’s before, The abundance of  useful tools in IntelliJ Integrated Development Environment (IDE) exceeded my expectations. They were genuinely helpful and easier to use compared to the other IDE’s I've worked with in the past. The layout and functions felt straightforward and authentic, making the whole process enjoyable.
+<div class="text-center p-3">
+  <img width="200px" src="../img/bootstrap_css.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/bootstraphtmlfinal.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/ics314css.jpg" class="img-thumbnail" >
+    <img width="200px" src="../img/ics314html.jpg" class="img-thumbnail" >
+</div>
 
-## Benefits of Using IntelliJ and ESLint
-Using IntelliJ and ESLint together really helped me see the importance of coding standards. IntelliJ made my work easier by handling a lot of tasks smoothly, like finding errors and helping with version control. It's a really useful tool that does a lot. On the other hand, ESLint helped me write better code by consistently pointing out my mistakes whenever I decided to write bad code. This is really important when working with a team, because it makes sure everyone is writing code the same way. Thus making the code easier for everyone to read and work on.
+## Importance of Learning UI frameworks
+In the world of website digitalization where the web page can make or break an individual or overall organization at first glance. The design and user experiecne of creating a web application plays a really big role. While being able to use HTML and CSS can offer the basic building blocks to compiling a website, The use of UI frameworks like BootStrap 5, provides a level of efficiency and sophistication that would be hard to achieve manually. But, why spend the extra time learning this? Why indulge in the intricacies of a UI Framework?
 
-## Insights Gained
-Overall, coding standards go beyond than just being a simple set of style rules to follow. They evolve into a framework for high-quality coding, effective teamwork, and continuous learning. With the help of the right tools, these standards can even transform our code from just being functional to becoming a well crafted piece of art. As we keep up with the ever changing landscape of technology, it is important to remember the basic fundamentals that truly make us better at our crafts.
+
+## Why UI Frameworks?
+For the most part UI frameworks might seem intimidating, But in my opinion, the long-term rewards overweigh the time spent learning it. The personal experience I have shared resonates with many other beginner developers going through the same process. Just as a construction worker wouldn't build a skyscraper brick by brick, a developer benefits from having structured and already defined blueprints at there disposal to format the website.
+
+
+## Pros of learning a UI Framework
+Frameworks provide a consistent set of components to use making sure the unified look and feel across the entire webpage is how you truly want it. With the variety of numerous types of UI. Bootstrap 5 for example shines the most with its mobile-first approach. This guarantees that the application will look good for all different kinds of device sizes without the additional tweaks from the user.
+Imagine recreating buttons, navbars or any type of modern function to a new site using your basic “HTML” and “CSS”. WIth UI frameworks like Bootstrap, these components are readily available, saving all those hours of development time which is very crucial. The comparison image provided is a really great example of this. The main difference between the code for building the webpage with and without a framework is evident.
+Besides that frameworks like BootStrap are highly customizable. Many developers have the liberty to override default styles, ensuring they get their own unique style that they pictured in their head and on the website.
+
+
+## Are there even Downsides?
+With my personal experience, there are absolutely no downsides in my opinion considering some small issues:
+
+- <b>Learning Curve:</b> As i mentioned earlier, the overall learning gap is quite steep and stressful to learn, especially for first time learners. The initial grasp of the framework’s classes, functions and structure can be scary at first. But like all new things the first few steps are always hard but it is an investment, once mastered, offering returns outlooking the trails spent learning it.
+
+* <b>Performance:</b> Using a full framework carelessly can result in bulky websites. The full framework may frequently be incorporated by many developers, which causes slower page loads. Adopting a good strategy and including only the necessary components is essential.
+
+- <b>Uniformity:</b> If designers don't stray from the preset styles, websites run the risk of being overly identical. When a popular framework is used frequently, websites might start to look unauthentic and seem repetitive. Overall make sure to stir away from using other websites as examples, try to create something on the top of your dome first.
+
+* <b>Over-reliance:</b> Although frameworks have many advantages, relying on them excessively can hinder a developer's fundamental comprehension of basic web concepts. It's critical to strike a balance and avoid relying solely on the framework for work.
+
+
+## Overview
+While the use of raw HTML and CSS give you the basic control and understanding of web styling, UI frameworks such as Bootstrap, streamline the process, offering  structured, efficient, and a more consistent approach to overall web design. Their ever growing communities, limitless amount of features, and emphasis on responsive design make them a mandatory tool for a developer. After all, in a world that's moving way too fast in tech, anything that helps in achieving results faster, without compromising on quality, is a necessity.
+
 
 
 
