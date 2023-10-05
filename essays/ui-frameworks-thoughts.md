@@ -17,6 +17,7 @@ labels:
 </div>
 
 
+
 ## Importance of Learning UI frameworks
 In the world of website digitalization where the web page can make or break an individual or overall organization at first glance. The design and user experiecne of creating a web application plays a really big role. While being able to use HTML and CSS can offer the basic building blocks to compiling a website, The use of UI frameworks like BootStrap 5, provides a level of efficiency and sophistication that would be hard to achieve manually. But, why spend the extra time learning this? Why indulge in the intricacies of a UI Framework?
 
@@ -29,6 +30,9 @@ In the world of website digitalization where the web page can make or break an i
 </div>
                                              
                                                   (open image in new tab to enlarge)
+<div class="text-center">
+  (open image in new tab to enlarge)
+</div>
 
 
 ## Why UI Frameworks?
