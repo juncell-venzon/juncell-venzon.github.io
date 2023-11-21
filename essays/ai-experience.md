@@ -19,9 +19,11 @@ labels:
 
 
 ## I. Introduction
+---
 Artificial Intelligence in education is transforming how we learn and solve problems. In ICS 314, my journey with AI tools like ChatGPT and Co-Pilot has been insightful, shaping my approach to various aspects of the course.
 
 ## II. Personal Experience with AI:
+---
 - <b>Experience WODs:</b> AI's guidance helped me tackle these workouts, making complex tasks more manageable.
 
 * <b>In-class Practice WODs:</b> AI played a crucial role in enhancing my practice sessions, providing quick and effective solutions.
@@ -51,18 +53,23 @@ Artificial Intelligence in education is transforming how we learn and solve prob
 * <b>Other Uses in ICS 314:</b> AI proved valuable for small fixes and function creation. It was especially useful in front-end development, although it required iterative queries for complex tasks.
 
 ## IV. Practical Applications:
+---
 In real-world scenarios, AI has been an invaluable asset. Its ability to provide quick solutions and creative approaches has significantly enhanced my efficiency in software development projects.
 
 ## V. Challenges and Opportunities:
+---
 Despite its benefits, AI sometimes struggled with larger and more complex coding tasks. However, these limitations present an opportunity to refine AI tools for more sophisticated applications.
 
 ## VI. Comparative Analysis:
+---
 Comparing traditional methods with AI-enhanced learning, I found that AI approaches often led to more engagement and quicker comprehension. However, traditional methods still hold value in understanding fundamental concepts deeply.
 
 ## VII. Future Considerations:
+---
 The future of AI in software engineering education looks promising. Its potential to further streamline learning processes and problem-solving is immense, though there is room for improvement in handling complex tasks.
 
 ## VIII. Conclusion:
+---
 My experience with AI in ICS 314 has been largely positive, with AI tools significantly aiding my learning and problem-solving skills. While AI has its limitations, especially in more complex scenarios, its benefits in enhancing efficiency and understanding are undeniable. Optimizing the integration of AI in software engineering courses could greatly benefit future students.
 
 
