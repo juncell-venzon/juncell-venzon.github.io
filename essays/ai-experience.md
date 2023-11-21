@@ -23,7 +23,7 @@ labels:
 Artificial Intelligence in education is transforming how we learn and solve problems. In ICS 314, my journey with AI tools like ChatGPT and Co-Pilot has been insightful, shaping my approach to various aspects of the course.
 
 ## II. Personal Experience with AI:
----
+***
 - <b>Experience WODs:</b> AI's guidance helped me tackle these workouts, making complex tasks more manageable.
 
 * <b>In-class Practice WODs:</b> AI played a crucial role in enhancing my practice sessions, providing quick and effective solutions.
@@ -57,11 +57,11 @@ Artificial Intelligence in education is transforming how we learn and solve prob
 In real-world scenarios, AI has been an invaluable asset. Its ability to provide quick solutions and creative approaches has significantly enhanced my efficiency in software development projects.
 
 ## V. Challenges and Opportunities:
----
+***
 Despite its benefits, AI sometimes struggled with larger and more complex coding tasks. However, these limitations present an opportunity to refine AI tools for more sophisticated applications.
 
 ## VI. Comparative Analysis:
----
+___
 Comparing traditional methods with AI-enhanced learning, I found that AI approaches often led to more engagement and quicker comprehension. However, traditional methods still hold value in understanding fundamental concepts deeply.
 
 ## VII. Future Considerations:
