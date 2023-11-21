@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: "Experience with AI"
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-04
+date: 2023-11-20
 published: true
 labels:
   - Software Engineer
-  - UI Frameworks
+  - Artificial Intelligence
 ---
 
 
