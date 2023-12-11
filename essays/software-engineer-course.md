@@ -12,7 +12,7 @@ labels:
 
 
 <div class="text-center py-2">
-  <img width="500px" src="../img/img/software-engineer-course-reflect.jpeg" class="img-thumbnail" >
+  <img width="500px" src="../img/software-engineer-course-reflect.jpeg" class="img-thumbnail" >
 </div>
 
 
