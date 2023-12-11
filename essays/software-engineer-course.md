@@ -1,52 +1,41 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Intro To Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-29
+date: 2023-11-11
 published: true
 labels:
   - Software Engineer
-  - Design Pattern
 ---
 
 
 
 <div class="text-center py-2">
-  <img width="500px" src="../img/design-pattern.png" class="img-thumbnail" >
+  <img width="500px" src="../img/img/software-engineer-course-reflect.jpeg" class="img-thumbnail" >
 </div>
 
 
 
 ## I. Introduction
 ---
-Understanding design patterns in software engineering is like musicians mastering the notes and chords in music. These patterns, however, are much more than mere theoretical concepts; they are practical steps in shaping and finalizing a software product. Design patterns are established solutions to common problems in software design. They act as templates that can be applied to real programming scenarios, making code more efficient, scalable, and maintainable. These patterns help developers avoid reinventing the wheel, providing a tested, proven pathway to solving design challenges. In our an ongoing team final project, "UHnify," a website that allows users to create accounts and join clubs to discover events. This project is a great example on how design patterns serve as important building blocks in the making of complex software systems. Each pattern employed in "UHnify" has contributed significantly to the project's development process, aligning with our milestone goals and enhancing the overall functionality and user experience of the platform.
+As I approach the end of my software engineering course, I find myself reflecting on the abundance of knowledge and skills I've acquired. Many as well as myself might have thought this course as merely a gateway to web application development However, in my opinion it has been much more than that. All the weekly lessons extended beyond coding. This course overall has not only helped my technical skills but also shaped my understanding of how technology relates with various aspects of society and everyday life. 
 
-## II. The Orchestra of Design Patterns
+
+## II. Key Concepts
 ***
-Try to picture an orchestra, Each instrument always has its specific role to play, contributing its unique sound to create a unified piece of sound. This ties in really well with the project since we used many design patterns which all play its own part within the development process (milestone goals)
+Below are some key concepts that have significantly influenced my understanding and approach to software engineering:
 
-- <b>Data Fetching and Publication Pattern:</b>  This is analogous to the conductor, who sets the tempo and ensures that everything is in tune. Our Configuration Pattern in files such as Accounts.js guaranteed that the site operated properly right away.
-- 
-* <b>Configuration Pattern:</b> AI played a crucial role in helping with my practice sessions, providing quick and effective solutions.
+#### Issue Driven Project Management (IDPM)
+In software engineering, IDPM stands as an important aspect of Agile Project Management. This approach, which we learned in depth, talks about managing projects by breaking them down into smaller, manageable issues or tasks. Each issue represents a single, well-defined task, making it easier to track progress and tackle complex projects systematically.The IDPM concept is not just restricted to web applications but is a versatile tool that can be applied to many projects outside of software engineering. Whether developing a mobile app, a desktop software, or even a non-IT project, IDPM’s principles of organization, clarity, and incremental progress are universally applicable. The overall concept of IDPM lies in its simplicity and adaptability, making project management less hard and more efficient.
 
-- <b>Utility Functions Pattern:</b> This is the orchestra's tuning fork, which ensures that every instrument is in tune. Our utility functions in Accounts.js served as critical tools for ensuring uniformity throughout the program.
+#### Deployment
+In software engineering is the process of delivering a software product to its end users, in my opinion a critical step that determines the real world effectiveness of the developed application. This process is not just about pushing a web application live but it extends to various domains like desktop applications, mobile apps, and even in areas like machine learning models etc. Deployment involves several key steps, from choosing the right hosting environment to ensuring the software is secure and performs well under different conditions. The skills learned in deploying web applications are transferable and valuable in any software development scenario. They teach us about the importance of reliability, user experience, and the continuous monitoring and updating of software post deployment.
 
-* <b>Module Pattern</b> Acts as the backbone in providing rhythm and structure to musical compositions. In our project, we utilized modules like Methods.js and Mongo.js to encapsulate functionalities, ensuring consistency and division of responsibilities - much like a skilled drummer maintaining the beat.
-
-- <b>State Management:</b> Can be likened to an ensemble of woodwind instruments where each instrument plays its own melody while harmonizing with others. Within components such as SignIn.jsx, we employed useState and useEffect hooks proficiently to manage local state and handle lifecycle events concurrently.
-
-* <b>List Rendering Pattern:</b> Picture the repetitive yet essential rhythm of a tambourine. Components like ListClubs.jsx followed this pattern, iterating over data to render lists, similar to a consistent beat in music.
-
-- <b>The Component Pattern:</b> mirrors the cohesive nature of an orchestra's violin section working together in harmony.In constructing our user interface for "UHnify," React's component pattern served as our guiding principle.Through functional components such as Club.jsxand Profile.jsx ,we were able to create numerous UI elements that performed designated tasks effortlessly.
-
-* <b>API Methods (Meteor Methods)</b> Comparable to the brass section, known for its powerful and resonant sound, this pattern in Methods.js played a key role in defining server-side operations, underpinning the application’s functionality.
-
-- <b>Form Handling Pattern:</b> Similar to the harp, this pattern adds finesse and elegance. Our use of uniforms-bootstrap5 in components such as AddClub.jsx simplified and elegantly handled forms.
-
-* <b>Container and Presentational Components:</b> This arrangement is analogous to having soloists and choir members. As seen in AddClub.jsx and ClubFinder.jsx, soloists (Container components) focus on the performance (how things operate), but the chorus (Presentational components) adds to the visual appeal (how things look).
+#### Ethics in Software Engineering 
+The ethical considerations in software engineering are profound, impacting how we approach development, user privacy, data security, and even societal impacts of technology. In this course, I learned that ethical software engineering is more so about making decisions that respect user rights, data privacy, and contribute positively to society. This understanding extends beyond web applications to all areas of software development. For instance, when developing AI algorithms. This is crucial to consider the implications of data bias and the ethical use of AI. Similarly, in the development of mobile apps, respecting user privacy and data security is paramount. Ethics in software engineering taught me to be not just a coder, but to also be a responsible creator in the digital world.
 
 
 ## III. Conclusion 
 ---
-Finally, just as an orchestra blends different instruments to make a beautiful piece of music, we blend different architectural patterns in software development to build efficient, scalable, and maintainable systems. Through "UHnify," my study and use of these patterns has not only equipped me to answer interview questions, but also to construct more such symphonies in the world of code.
+Overall, this course has been beneficial in shaping my understanding of software engineering.It has gone beyond just web application development, giving me a complete POV of what else there is to offer in this field. IDPM, Deployment, and Ethics in Software Engineering, have equipped me with a toolkit that I can apply in various contexts, making me a more versatile and effective software engineer. When I initially joined this course, I anticipated only gaining fundamental knowledge of JavaScript, HTML, and CSS.  But no, this course has not just been about learning to code; it's been about learning to think, plan, execute, and act ethically in the ever-evolving landscape of technology.
