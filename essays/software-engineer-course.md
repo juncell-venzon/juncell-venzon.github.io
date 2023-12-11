@@ -19,7 +19,7 @@ labels:
 
 ## I. Introduction
 ---
-As I approach the end of my software engineering course, I find myself reflecting on the abundance of knowledge and skills I've acquired. Many as well as myself might have thought this course as merely a gateway to web application development However, in my opinion it has been much more than that. All the weekly lessons extended beyond coding. This course overall has not only helped my technical skills but also shaped my understanding of how technology relates with various aspects of society and everyday life. 
+As I approach the end of my software engineering course, I find myself reflecting on all the useful knowledge and skills I've acquired thoughout the semester. Many as well as myself might have thought this course as merely a gateway to web application development However, in my opinion it has been much more than that. All the weekly lessons extended beyond coding. This course overall has not only helped my technical skills but also shaped my understanding of how technology relates with various aspects of society and everyday life. 
 
 
 ## II. Key Concepts
