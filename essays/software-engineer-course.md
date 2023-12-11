@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Intro To Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-11
+date: 2023-12-11
 published: true
 labels:
   - Software Engineer
