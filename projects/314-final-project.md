@@ -28,8 +28,8 @@ UHnify is a collaborative project that my team and I developed to connect Univer
 #### SignIn/SignUp Page
 For the SignIn/SignUp page, I developed a user friendly interface, focusing on a specific design for easy navigation between signing in and signing up processes. My design choices were geared towards creating a welcoming and straightforward experience, encouraging user engagement right from their first interaction with the platform. This included formulating the layout, choosing color schemes, and ensuring that the transition between signing in and creating an account was as smooth as possible. I also played a pivotal role in coding the backend functionality that supports these pages in collaboration with a team member.
 <div class="text-center p-3">
-  <img width="400px" src="../img/signinpage.png" class="img-thumbnail" >
-  <img width="400px" src="../img/signuppage.png" class="img-thumbnail" >
+  <img width="500px" src="../img/signinpage.png" class="img-thumbnail" >
+  <img width="500px" src="../img/signuppage.png" class="img-thumbnail" >
 </div>
 <div class="text-center pt-2">
   (open image in new tab to enlarge)
@@ -38,7 +38,7 @@ For the SignIn/SignUp page, I developed a user friendly interface, focusing on a
 #### Footer 
 I was responsible for designing and creating the footer component, ensuring it was both visually appealing and consistent with the overall design ethos for the project.
   <div class="text-center py-2">
-  <img width="600px" src="../img/footer.png" class="img-thumbnail" >
+  <img width="700px" src="../img/footer.png" class="img-thumbnail" >
 </div>
 <div class="text-center pt-2">
   (open image in new tab to enlarge)
@@ -59,7 +59,7 @@ Beyond my hands-on work, I played a role in team coordination and project manage
 
 ## Insights:
 ---
-While I noitced that there could be a lot more fixes to be done for the project, I'm genuinely impressed with what we have achieved as a team and learned. It was a valuable experience in opinion, and I'm looking forward to applying these skills to future projects, potentially collaborating with some of my current teammates again.
+While there could be a lot more fixes to be done for the project, I'm genuinely impressed with what we have achieved as a team and learned. It was a valuable experience in opinion, and I'm looking forward to applying these skills to future projects, potentially collaborating with some of my current teammates again.
 
 
 - For more information on UHnify's HomePage, you can [click here](https://uhnify.github.io/).
