@@ -4,7 +4,7 @@ type: essay
 title: "Journey Through the Software Landscape"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Software Engineer
   - JavaScript
