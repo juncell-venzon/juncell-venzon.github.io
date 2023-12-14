@@ -16,7 +16,7 @@ labels:
 summary: "Together with four teammates, we built UHnify, a final project for UH Manoa students to foster club involvement and event attendance, streamlining campus engagement."
 ---
 
-<img class="img-fluid" src="../img/finalLanding.png">
+<img class="img-fluid" src="../img/finalLanding2.png">
 
 ## Description:
 UHnify is a collaborative project that my team and I developed to connect University of Hawaii at Manoa students with various student clubs. Our platform allows users to create an account, join clubs, and gain access to club specific events and activities, enhancing their campus experience. For a more comprehensive look, please visit our [GitHub project page](https://uhnify.github.io/).
@@ -28,17 +28,26 @@ For the SignIn/SignUp page, I developed a user friendly interface, focusing on a
   <img width="300px" src="../img/signinpage.png" class="img-thumbnail" >
   <img width="300px" src="../img/signuppage.png" class="img-thumbnail" >
 </div>
+<div class="text-center pt-2">
+  (open image in new tab to enlarge)
+</div>
 
 #### Footer 
 I was responsible for designing and creating the footer component, ensuring it was both visually appealing and consistent with the overall design ethos for the project.
   <div class="text-center py-2">
   <img width="400px" src="../img/footer.png" class="img-thumbnail" >
 </div>
+<div class="text-center pt-2">
+  (open image in new tab to enlarge)
+</div>
 
 #### Admin Page
 The Admin Page, which I and a team member designed for administrative access, serves as a secure area where designated users with admin roles can manage critical data. Admins have the exclusive ability to oversee various data collections, including clubs, events, and user profiles. They are entrusted with the capabilities to edit or delete this information as needed to keep the platform's data accurate and up to date, ensuring a smooth and reliable experience for all users of the platform.
   <div class="text-center py-2">
   <img width="300px" src="../img/adminpage.png" class="img-thumbnail" >
+</div>
+<div class="text-center pt-2">
+  (open image in new tab to enlarge)
 </div>
 
 #### Others
