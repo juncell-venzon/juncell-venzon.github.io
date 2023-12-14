@@ -19,9 +19,11 @@ summary: "Together with four teammates, we built UHnify, a final project for UH 
 <img class="img-fluid" src="../img/finalLanding2.png">
 
 ## Description:
+---
 UHnify is a collaborative project that my team and I developed to connect University of Hawaii at Manoa students with various student clubs. Our platform allows users to create an account, join clubs, and gain access to club specific events and activities, enhancing their campus experience. For a more comprehensive look, please visit our [GitHub project page](https://uhnify.github.io/).
 
 ## Contribution:
+---
 #### SignIn/SignUp Page
 For the SignIn/SignUp page, I developed a user friendly interface, focusing on a specific design for easy navigation between signing in and signing up processes. My design choices were geared towards creating a welcoming and straightforward experience, encouraging user engagement right from their first interaction with the platform. This included formulating the layout, choosing color schemes, and ensuring that the transition between signing in and creating an account was as smooth as possible. I also played a pivotal role in coding the backend functionality that supports these pages in collaboration with a team member.
 <div class="text-center p-3">
@@ -51,6 +53,7 @@ The Admin Page, which I and a team member designed for administrative access, se
 </div>
 
 #### Others
+---
 Beyond my hands-on work, I played a role in team coordination and project management. I ensured our website for the final project was bug free and user friendly, regularly communicating updates and guiding the team to meet our deadlines. I prioritized functionality in our development goals, advocating for a practical approach that emphasized creating a working site first before enhancing it with additional styling and features. My goal was to keep the team and myself focused and productive, steering our collective efforts towards a functional website.
 
 ## Insights:
