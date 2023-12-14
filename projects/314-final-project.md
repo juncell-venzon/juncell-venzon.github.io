@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UHnifylogo.png
+image: img/UHnifylogo2.png
 title: "YMCA"
 date: 2023-12-11
 published: true
