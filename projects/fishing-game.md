@@ -11,6 +11,9 @@ summary: "A fishing game me and my team developed for ICS211."
 ---
 
 <img class="img-fluid" src="../img/subclass-classesfishpicportfolio.png">
+<div class="text-center pt-2">
+  (open image in new tab to enlarge)
+</div>
 
 ## Overview:
 ***
