@@ -61,3 +61,7 @@ Beyond my hands-on work, I played a role in team coordination and project manage
 ---
 While I noitced that there could be a lot more fixes to be done for the project, I'm genuinely impressed with what we have achieved as a team and learned. It was a valuable experience in opinion, and I'm looking forward to applying these skills to future projects, potentially collaborating with some of my current teammates again.
 
+
+- For more information on UHnify's HomePage, you can [click here](https://uhnify.github.io/).
+* For more information on Uhnify's GitHub Organization Page, you can [click here](https://github.com/uhnify/uhnify).
+- For more information on Uhnify's Website, you can [click here](https://uhnify.online/).
