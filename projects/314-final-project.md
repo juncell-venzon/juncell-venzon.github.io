@@ -53,9 +53,9 @@ The Admin Page, which I and a team member designed for administrative access, se
 </div>
 
 #### Others
----
 Beyond my hands-on work, I played a role in team coordination and project management. I ensured our website for the final project was bug free and user friendly, regularly communicating updates and guiding the team to meet our deadlines. I prioritized functionality in our development goals, advocating for a practical approach that emphasized creating a working site first before enhancing it with additional styling and features. My goal was to keep the team and myself focused and productive, steering our collective efforts towards a functional website.
 
 ## Insights:
+---
 While I noitced that there could be a lot more fixes to be done for the project, I'm genuinely impressed with what we have achieved as a team and learned. It was a valuable experience in opinion, and I'm looking forward to applying these skills to future projects, potentially collaborating with some of my current teammates again.
 
