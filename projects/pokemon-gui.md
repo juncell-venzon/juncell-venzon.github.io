@@ -16,6 +16,9 @@ summary: "I created a pokemon GUI for my final assignment in ICS111."
   <img width="200px" src="../img/pokemon-project-list.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/pokemon-project-addedlist.jpg" class="img-thumbnail" >
 </div>
+<div class="text-center pt-2">
+  (open image in new tab to enlarge)
+</div>
 
 ## Overview:
 ***
