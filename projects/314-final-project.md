@@ -24,6 +24,7 @@ UHnify is a collaborative project that my team and I developed to connect Univer
 ## Contribution:
 #### SignIn/SignUp Page
 For the SignIn/SignUp page, I developed a user friendly interface, focusing on a specific design for easy navigation between signing in and signing up processes. My design choices were geared towards creating a welcoming and straightforward experience, encouraging user engagement right from their first interaction with the platform. This included formulating the layout, choosing color schemes, and ensuring that the transition between signing in and creating an account was as smooth as possible. I also played a pivotal role in coding the backend functionality that supports these pages in collaboration with a team member.
+
 <div class="text-center p-3">
   <img width="400px" src="../img/signinpage.png" class="img-thumbnail" >
   <img width="400px" src="../img/signuppage.png" class="img-thumbnail" >
