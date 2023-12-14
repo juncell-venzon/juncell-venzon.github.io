@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ymca150titlelogo.jpg
+image: img/UHnifylogo.png
 title: "YMCA"
 date: 2023-12-11
 published: true
@@ -16,7 +16,7 @@ labels:
 summary: "Together with four teammates, we built UHnify, a final project for UH Manoa students to foster club involvement and event attendance, streamlining campus engagement."
 ---
 
-<img class="img-fluid" src="../img/ymcaanniversayscreenshot.jpg">
+<img class="img-fluid" src="../img/finalLanding.png">
 
 ## Description:
 UHnify is a collaborative project that my team and I developed to connect University of Hawaii at Manoa students with various student clubs. Our platform allows users to create an account, join clubs, and gain access to club specific events and activities, enhancing their campus experience. For a more comprehensive look, please visit our [GitHub project page](https://uhnify.github.io/).
