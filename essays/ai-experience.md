@@ -24,7 +24,7 @@ Artificial Intelligence in education is transforming how we learn and solve prob
 
 ## II. Personal Experience with AI:
 ***
-- <b>Experience WODs:</b> Most of the experiecne WOD's were straightfoward and esay due to the accompanied video tutoials But
+- <b>Experience WODs:</b> Most of the experience WOD's were straightforward and easy due to the accompanied video tutorials But
 AI's guidance helped me fully understand the whole concept of the assignment.
 
 * <b>In-class Practice WODs:</b> AI played a crucial role in helping with my practice sessions, providing quick and effective solutions.
