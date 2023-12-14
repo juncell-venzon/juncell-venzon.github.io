@@ -14,10 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Algorithms" },
-    { "name": "Video/photo editing" },
-    { "name": "VFX" },
+    { "name": "Machine Learning" },
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
+    { "name": "UX/UI Design" },
     { "name": "Graphic design" }
   ],
   "skills": [
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows 10", "Git/GitHub", "jGRASP" ]
+      "keywords": [ "MacOS", "Windows 10", "Git/GitHub", "jGRASP", "intelliJ" ]
     }
   ],
   "education": [
