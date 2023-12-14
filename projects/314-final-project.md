@@ -22,6 +22,7 @@ summary: "Together with four teammates, we built UHnify, a final project for UH 
 ---
 UHnify is a collaborative project that my team and I developed to connect University of Hawaii at Manoa students with various student clubs. Our platform allows users to create an account, join clubs, and gain access to club specific events and activities, enhancing their campus experience. For a more comprehensive look, please visit our [GitHub project page](https://uhnify.github.io/).
 
+
 ## Contribution:
 ---
 #### SignIn/SignUp Page
@@ -54,6 +55,7 @@ The Admin Page, which I and a team member designed for administrative access, se
 
 #### Others
 Beyond my hands-on work, I played a role in team coordination and project management. I ensured our website for the final project was bug free and user friendly, regularly communicating updates and guiding the team to meet our deadlines. I prioritized functionality in our development goals, advocating for a practical approach that emphasized creating a working site first before enhancing it with additional styling and features. My goal was to keep the team and myself focused and productive, steering our collective efforts towards a functional website.
+
 
 ## Insights:
 ---
