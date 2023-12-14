@@ -20,7 +20,7 @@ summary: "Together with four teammates, we built UHnify, a final project for UH 
 
 ## Description:
 ---
-UHnify is a collaborative project that my team and I developed to connect University of Hawaii at Manoa students with various student clubs. Our platform allows users to create an account, join clubs, and gain access to club specific events and activities, enhancing their campus experience. For a more comprehensive look, please visit our [GitHub  HomePage](https://uhnify.github.io/).
+UHnify is a collaborative project that my team and I developed to connect University of Hawaii at Manoa students with various student clubs. Our platform allows users to create an account, join clubs, and gain access to club specific events and activities, enhancing their campus experience. For a more comprehensive look, please visit our [GitHub HomePage](https://uhnify.github.io/).
 
 
 ## Contribution:
