@@ -13,7 +13,7 @@ labels:
   - React
   - GitHub
     
-summary: "Together with four teammates, we built UHnify, a final project for UH Manoa students to foster club involvement and event attendance, streamlining campus engagement."
+summary: "Together with four teammates, we built UHnify, a final project for ICS314. This site allows UH Manoa students to foster club involvement and event attendance, enhancing campus engagement."
 ---
 
 <img class="img-fluid" src="../img/finalLanding2.png">
