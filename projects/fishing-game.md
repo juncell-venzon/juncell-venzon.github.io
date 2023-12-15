@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/fishingprotfoliopic.jpg
 title: "Fishing Game"
-date: 2022-04-26
+date: 2022/04/26
 published: true
 labels:
   - Java
