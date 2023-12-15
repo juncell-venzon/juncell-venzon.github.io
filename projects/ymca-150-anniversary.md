@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ymca150titlelogo.jpg
 title: "YMCA"
-date: 2019/04/27
+date: 2019-04-27
 published: true
 labels:
   - Fitness
