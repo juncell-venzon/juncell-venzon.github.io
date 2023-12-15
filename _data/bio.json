@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Juncell Venzon",
+    "label": "Undergraduate",
+    "picture": "https://avatars.githubusercontent.com/u/77307511?s=400&u=5c01d6a94d8a03cc62af7ab54b7c46863c0ce286&v=4",
+    "email": "venzonjuncell@gmail.com Juncellv@hawaii.edu",
+    "phone": "808-453-0092",
+    "website": "https://juncell-venzon.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "venzon-juncell", "url": "https://github.com/juncell-venzon" },
+      { "network": "linkedin", "username": "juncellvenzon", "url": "https://www.linkedin.com/in/juncellvenzon/" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
+    { "name": "UX/UI Design" },
+    { "name": "Graphic design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "SQL", "noSQL", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows 10", "Git/GitHub", "jGRASP", "intelliJ" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected SPRING, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Zara",
+      "position": "Floor Associate",
+      "website": "https://www.zara.com/us/",
+      "startDate": "2019-08-1",
+      "endDate": "2020-07-31",
+      "summary": "Section Leader",
+      "highlights": [
+        "Product Knowledge",
+        "Customer Service",
+        "Inventory Management"
+      ]
+    },
+    {
+      "company": "Department Of Education Hawaii",
+      "position": "Paraprofessional",
+      "website": "https://www.ed.gov",
+      "startDate": "2019-01-8",
+      "endDate": "2016-05-31",
+      "summary": "",
+      "highlights": [
+        "Supporting Classroom Activities",
+        "Special Education Assistance",
+        "Classroom Management",
+        "Administrative Tasks"
+      ]
+    }, 
+    {
+      "company": "Jamba Juice Hawaii",
+      "position": "Team Leader",
+      "website": "https://jambahawaii.com/",
+      "startDate": "2017-11-8",
+      "endDate": "2018-12-28",
+      "summary": "",
+      "highlights": [
+        "Customer Service Excellences",
+        "Training",
+        "Health and Safety",
+        "Sales and Marketing"
+        
+      ]
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
