@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pokemontitle.png
 title: "Pokemon menu GUI"
-date: 2020/12/14
+date: 2020-12-14
 published: true
 labels:
   - Java
