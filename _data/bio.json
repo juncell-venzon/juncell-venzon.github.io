@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "SQL", "noSQL" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "SQL", "noSQL", "Python" ]
     },
     {
       "name": "Toolsets/OS",
