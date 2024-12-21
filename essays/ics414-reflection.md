@@ -11,9 +11,7 @@ labels:
 
 
 
-<div class="text-center py-2">
-  <img width="500px" src="../img/inspire-logo.png" class="img-thumbnail" >
-</div>
+
 
 
 
