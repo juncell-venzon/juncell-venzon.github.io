@@ -10,17 +10,12 @@ labels:
 ---
 
 
-
-
-
-
-
 ## I. Introduction:
 ---
 This semester in ICS 414 has been an invaluable learning experience, particularly as we worked on a real-world project for the company Inspire. The project revolved around developing a Financial Sustainability Platform (FSM), which provided an opportunity to engage deeply with financial modeling and software development processes. Our overarching goal was to transition Inspire’s existing financial models into a more integrated, user-friendly platform, emphasizing accuracy, usability, and automation.
 
 ## II. Milestones and Collaboration:
-***
+---
 The course was structured around milestones that helped us break the project into smaller, actionable tasks. These milestones allowed us to focus on key aspects such as understanding the financial model, improving the user interface, and ensuring the backend functionality met the client's needs. Each milestone was accompanied by presentations, where we showcased our progress to both the instructor and our client.
 
 These client presentations were critical, as they not only kept us accountable but also allowed us to receive direct feedback. This feedback guided our development priorities and helped us align with the client’s vision. It was during these presentations that I learned how to ask meaningful questions to better understand the client’s pain points and how to adapt our software accordingly.
