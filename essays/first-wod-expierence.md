@@ -4,7 +4,7 @@ type: essay
 title: "First WOD Expierence"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-02
-published: true
+published: false
 labels:
   - Software Engineer
   - JavaScript
