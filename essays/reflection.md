@@ -19,15 +19,15 @@ This semester in ICS 414 has been an invaluable learning experience, particularl
 
 ## II. Milestones and Collaboration:
 ---
-A major feature I worked on during this project was the Sign-In and Sign-Up pages, which are essential for ensuring user access and security. This component required me to focus on both front-end and back-end functionality. Implementing user authentication taught me how to prioritize user experience while maintaining secure practices, such as password validation and error handling.
+The course was structured around milestones that helped us break the project into smaller, actionable tasks. These milestones allowed us to focus on key aspects such as understanding the financial model, improving the user interface, and ensuring the backend functionality met the client’s needs. Each milestone was accompanied by presentations, where we showcased our progress to both the instructor and our client.
 
-From designing user-friendly forms to handling edge cases like duplicate accounts and weak passwords, this task challenged me to think critically about software usability. Additionally, testing these features using tools like TestCafe allowed me to adopt a systematic approach to quality assurance. This experience reinforced the importance of thorough testing and iterative improvement to deliver reliable and polished features.
+These client presentations were critical, as they not only kept us accountable but also allowed us to receive direct feedback. This feedback guided our development priorities and helped us align with the client’s vision. It was during these presentations that I learned how to ask meaningful questions to better understand the client’s pain points and how to adapt our software accordingly.
 
 ## III. Sign-In and Sign-Up Page Development:
 ---
-A significant component of ICS 414 was code reviews, a practice that helped improve both individual and team-based coding standards. Each week, we would review our own contributions on GitHub and leave comments highlighting areas for improvement. This process emphasized the importance of clean, maintainable code and ensured that all team members understood the changes being made to the project.
+A major feature I worked on during this project was the Sign-In and Sign-Up pages, which are essential for ensuring user access and security. This component required me to focus on both front-end and back-end functionality. Implementing user authentication taught me how to prioritize user experience while maintaining secure practices, such as password validation and error handling.
 
-These reviews taught me how to approach my own code critically, looking for potential bugs, inefficiencies, or places where the logic could be streamlined. It also strengthened my ability to collaborate with team members, as we had to understand and integrate feedback constructively.
+From designing user-friendly forms to handling edge cases like duplicate accounts and weak passwords, this task challenged me to think critically about software usability. Additionally, testing these features using tools like TestCafe allowed me to adopt a systematic approach to quality assurance. This experience reinforced the importance of thorough testing and iterative improvement to deliver reliable and polished features.
 
 <div class="text-center p-3">
   <img width="400px" src="../img/414-signin.png" class="img-thumbnail" >
